@@ -78,7 +78,6 @@ $('.box').on('click', function() {
   if(win) {
     alert("We have a winner!");
   }
-  console.log("win = " + horizontailWin);
 }); //end of click function
 }); //end of dom ready
 
